@@ -30,7 +30,7 @@ Re-analysis of a sc-RNA-Seq dataset obtained from Peng et al. (Cell Research, 20
 
 - **Risk_signature_analysis:** Analysis of genes of interest from the risk signature.
 
-## RNA-Seq
+## RNA_Seq
 
 Analysis of the transcriptomic effects (RNA-Seq) of BPTF gene silencing in conjunction with TNFa treatment in PDAC model cell lines, with samples generated in our laboratory. It contains a notebook within the RNA-Seq pre-analysis folder with the bash commands used in the RNA-Seq analysis pipeline. It also contains another notebook (**RNA_Seq_Analysis**) with downstream analysis.
 
