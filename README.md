@@ -46,7 +46,16 @@ Obtaining a risk signature of BPTF-dependent genes. It contains two notebooks:
 
 - **Risk_signature_genes_analysis:** Analysis of the prognostic value of each gene in the signature individually.
 
+## Utils:
 
+This folder contains four Python scripts and a pickle file, usefull resources also developed during the project:
 
-		
-		
+- **Volcanoplot:** Generates a customized volcano plot (including highlighted gene names) from the results of differential expression.
+
+- **Functional_analysis:** Contains useful functions for functional analyses, result filtering, and plot generation.
+
+- **gmt_tools:** Contains functions for reading and generating .gmt files, a format commonly used for storing molecular signatures.
+
+- **gtf_dict_GRCh38.110:** Contains a dictionary with the correspondence of ENSEMBL_ID and gene symbol.
+
+- **Risk signature:** Contains functions necessary to obtain the risk signature.
