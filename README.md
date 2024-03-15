@@ -66,5 +66,3 @@ Pancreatic ductal adenocarcinoma (PDAC) is a disease of increasing incidence and
 **Keywords**: PDAC, pancreas, tumour microenvironment, sc-RNA-Seq, BPTF, RNA-Seq, risk signature.
 
 
-The full text is available here: TFM.pdf
-
